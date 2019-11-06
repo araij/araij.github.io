@@ -1,6 +1,4 @@
-# Bio
-
-新井 淳也 (Arai, Junya)
+## 新井 淳也 (Arai, Junya)
 
 Researcher, NTT Software Innovation Center, Nippon Telegraph and Telephone Corporation.
 
