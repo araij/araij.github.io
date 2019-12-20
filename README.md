@@ -2,7 +2,7 @@
 
 Researcher, NTT Software Innovation Center, Nippon Telegraph and Telephone Corporation.
 
-He received a Bachelor of Science and a Master of Information Science and Technology from the University of Tokyo in 2011 and 2013, respectively, and he also received a Ph.D. in Information Science from Osaka University in 2019. He joined NTT in 2013 and has been studying efficient graph algorithms, parallel distributed computing, and development and operation of computer clusters. He is a member of the Association for Computing Machinery (ACM) and the Database Society of Japan (DBSJ).
+He received a Bachelor of Science and a Master of Information Science and Technology from the University of Tokyo in 2011 and 2013, respectively, and a Ph.D. in Information Science from Osaka University in 2019. He joined NTT in 2013 and has been studying efficient graph algorithms, parallel distributed computing, and development and operation of computer clusters. He is a member of the Association for Computing Machinery and the Database Society of Japan.
 
 - [Publications](pubs.pdf) (in Japanese)
 - [GitHub](https://github.com/araij)
