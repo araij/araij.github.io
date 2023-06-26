@@ -1,10 +1,11 @@
 ## 新井 淳也 (Arai, Junya)
 
-Researcher, NTT Software Innovation Center, Nippon Telegraph and Telephone Corporation.
+Research Engineer, Computer and Data Science Laboratories, Nippon Telegraph and Telephone Corporation.
 
-He received a Bachelor of Science and a Master of Information Science and Technology from the University of Tokyo in 2011 and 2013, respectively, and a Ph.D. in Information Science from Osaka University in 2019. He joined NTT in 2013 and has been studying efficient graph algorithms, parallel distributed computing, and development and operation of computer clusters. He is a member of the Association for Computing Machinery and the Database Society of Japan.
+He received a Bachelor of Science and a Master of Information Science and Technology from the University of Tokyo in 2011 and 2013, respectively. In 2019, he obtained a Ph.D. in Information Science from Osaka University. He joined NTT in 2013 and has been studying efficient graph algorithms, parallel distributed computing, and the development and operation of heterogeneous computer clusters. He is a member of the Association for Computing Machinery and the Database Society of Japan.
 
-- [Publications](pubs.pdf) (in Japanese)
+- [Publications](pubs.pdf) (in Japanese; updated at Nov. 5, 2019)
+- [dblp](https://dblp.org/pid/129/5665.html)
 - [GitHub](https://github.com/araij)
 - [SlideShare](https://www.slideshare.net/ssusere4a540/)
 - [LinkedIn](https://www.linkedin.com/in/araij/)
