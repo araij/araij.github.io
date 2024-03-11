@@ -13,9 +13,11 @@ He received a Bachelor of Science and a Master of Information Science and Techno
 ## Selected Publications
 
 - Junya Arai, Yasuhiro Fujiwara, and Makoto Onizuka. **GuP: Fast Subgraph Matching by Guard-Based Pruning**. Proceedings of the ACM on Management of Data (PACMMOD), Vol. 1, No. 2, pp. 1–26, jun 2023.
-    - [Paper](https://dl.acm.org/doi/abs/10.1145/3589312) (also available in [arXiv](https://arxiv.org/abs/2306.06557)), [Implementation](https://github.com/araij/gup)
+    - [Paper](https://dl.acm.org/doi/abs/10.1145/3589312) (also available in [arXiv](https://arxiv.org/abs/2306.06557)), [Slides](slides/2306_gup_sigmod.pdf), [Implementation](https://github.com/araij/gup)
+    - Presented at SIGMOD 2024
 - Junya Arai, Hiroaki Shiokawa, Takeshi Yamamuro, Makoto Onizuka, and Sotetsu Iwamura. **Rabbit Order: Just-in-Time Parallel Reordering for Fast Graph Analysis**. In Proceedings of the 30th IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 22–31, may 2016.
-    - [Paper](https://ieeexplore.ieee.org/abstract/document/7515998), [Slides](http://www.slideshare.net/ssusere4a540/rabbit-order-justintime-reordering-for-fast-graph-analysis), [Implementation](https://github.com/araij/rabbit_order)
+    - [Paper](https://ieeexplore.ieee.org/abstract/document/7515998), [Slides](slides/1605_rabbit_order_ipdps.pdf), [Implementation](https://github.com/araij/rabbit_order)
+    - **100+ citations**
 
 ## Professional Services
 
