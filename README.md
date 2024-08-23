@@ -4,7 +4,7 @@ Senior Research Engineer at the Computer and Data Science Laboratories, Nippon T
 
 He received a Bachelor of Science and a Master of Information Science and Technology from the University of Tokyo in 2011 and 2013, respectively. In 2019, he obtained a Ph.D. in Information Science from Osaka University. He joined NTT in 2013 and has been studying efficient graph algorithms, parallel distributed computing, and the development and operation of heterogeneous computer clusters. He is a member of the Association for Computing Machinery and the Database Society of Japan.
 
-- [Full Publications](https://github.com/araij/araij.github.io/blob/master/pubs.pdf) (in Japanese; updated at Aug. 18, 2023)
+- [Full Publications](https://github.com/araij/araij.github.io/blob/master/pubs.pdf) (in Japanese; updated at Aug. 15, 2024)
 - [dblp](https://dblp.org/pid/129/5665.html)
 - [GitHub](https://github.com/araij)
 - [LinkedIn](https://www.linkedin.com/in/araij/)
