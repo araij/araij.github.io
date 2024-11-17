@@ -21,7 +21,7 @@ I received a Bachelor of Science and a Master of Information Science and Technol
     - [Slides](https://github.com/araij/araij.github.io/blob/master/materials/2306_gup_sigmod_slides.pdf)
     - [Implementation](https://github.com/araij/gup)
 - Junya Arai, Hiroaki Shiokawa, Takeshi Yamamuro, Makoto Onizuka, and Sotetsu Iwamura. **Rabbit Order: Just-in-Time Parallel Reordering for Fast Graph Analysis**. IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2016.
-    - [Paper](https://ieeexplore.ieee.org/abstract/document/7515998)
+    - Paper: [Published Version on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/7515998), [Accepted Version on NTT's Website](https://www.rd.ntt/_assets/pdf/sic/team_researchers/other/araij2016ipdps.pdf)
     - [Slides](https://github.com/araij/araij.github.io/blob/master/materials/1605_rabbit_order_ipdps_slides.pdf)
     - [Implementation](https://github.com/araij/rabbit_order)
 
