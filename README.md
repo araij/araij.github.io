@@ -13,8 +13,8 @@ I received a Bachelor of Science and a Master of Information Science and Technol
 ## Selected Publications
 
 - Junya Arai, Masahiro Nakao, Yuto Inoue, Kanto Teranishi, Koji Ueno, Keiichiro Yamamura, Mitsuhisa Sato, and Katsuki Fujisawa. **Doubling Graph Traversal Efficiency to 198 TeraTEPS on the Supercomputer Fugaku**. The International Conference for High Performance Computing, Networking, Storage and Analysis (SC '24), 2024.
-    - Paper: Published Version on IEEE Xplore (comming soon), [Accepted Version on GitHub](https://github.com/araij/araij.github.io/blob/master/materials/2411_graph500_sc_accepted.pdf)
-    - Slides (comming soon)
+    - Paper: [Published Version on IEEE Xplore](https://doi.ieeecomputersociety.org/10.1109/SC41406.2024.00107), [Accepted Version on GitHub](https://github.com/araij/araij.github.io/blob/master/materials/2411_graph500_sc_accepted.pdf)
+    - [Slides](https://github.com/araij/araij.github.io/blob/master/materials/2411_graph500_sc_slides.pdf)
     - [Implementation](https://github.com/RIKEN-RCCS/Graph500-BFS)
 - Junya Arai, Yasuhiro Fujiwara, and Makoto Onizuka. **GuP: Fast Subgraph Matching by Guard-Based Pruning**. Proceedings of the ACM on Management of Data (PACMMOD, formerly Proc. SIGMOD), 2023.
     - Paper: [Published Version on ACM DL](https://dl.acm.org/doi/abs/10.1145/3589312), [Accepted Version on arXiv](https://arxiv.org/abs/2306.06557)
@@ -24,6 +24,11 @@ I received a Bachelor of Science and a Master of Information Science and Technol
     - Paper: [Published Version on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/7515998), [Accepted Version on NTT's Website](https://www.rd.ntt/_assets/pdf/sic/team_researchers/other/araij2016ipdps.pdf)
     - [Slides](https://github.com/araij/araij.github.io/blob/master/materials/1605_rabbit_order_ipdps_slides.pdf)
     - [Implementation](https://github.com/araij/rabbit_order)
+
+## Talks
+
+- **High-Performance Graph Search with Pruning**. The 19th Korea-Japan (Japan-Korea) Database Workshop (KJDB), 2024.
+    - [Slides](https://github.com/araij/araij.github.io/blob/master/materials/2411_kjdb_slides.pdf)
 
 ## Professional Services
 
