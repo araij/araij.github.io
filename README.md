@@ -25,6 +25,10 @@ I received a Bachelor of Science and a Master of Information Science and Technol
     - [Slides](https://github.com/araij/araij.github.io/blob/master/materials/1605_rabbit_order_ipdps_slides.pdf)
     - [Implementation](https://github.com/araij/rabbit_order)
 
+## Awards
+
+- **Kasami Award**, The Graduate School of Information Science and Technology and the Graduate School of Engineering Science of Osaka University, 2025.
+
 ## Talks
 
 - **High-Performance Graph Search with Pruning**. The 19th Korea-Japan (Japan-Korea) Database Workshop (KJDB), 2024.
