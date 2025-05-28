@@ -27,6 +27,7 @@ I received a Bachelor of Science and a Master of Information Science and Technol
 
 ## Awards
 
+- **Best Poster Award**, IEEE CCGrid 2025.
 - **Kasami Award**, The Graduate School of Information Science and Technology and the Graduate School of Engineering Science of Osaka University, 2025.
 
 ## Talks
