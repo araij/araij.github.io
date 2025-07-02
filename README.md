@@ -28,6 +28,7 @@ I received a Bachelor of Science and a Master of Information Science and Technol
 ## Awards
 
 - **Best Poster Award**, IEEE CCGrid 2025.
+    - J. Arai et al. **Geo-Replicated File Systems at Near-Local Speeds: Evaluating DAOS on the All-Photonic Network**. CCGridW, 2025. [🔗](https://ieeexplore.ieee.org/document/11044703)
 - **Kasami Award**, The Graduate School of Information Science and Technology and the Graduate School of Engineering Science of Osaka University, 2025.
 
 ## Talks
