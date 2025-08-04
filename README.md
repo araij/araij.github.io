@@ -39,8 +39,8 @@ I received a Bachelor of Science and a Master of Information Science and Technol
 ## Professional Services
 
 - The International Conference on Parallel Processing (ICPP): PC Member (2025)
+- The International Conference on Database Systems for Advanced Applications (DASFAA): PC Member (2024, 2025)
 - Cross-Disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG): Program Vice-Chair (2024), PC Member (2023, 2019, 2018)
-- The International Conference on Database Systems for Advanced Applications (DASFAA): PC Member (2024)
 - The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC): Planning Committee Member (Technical Program) (2023)
 - The IEEE International Conference on High Performance Computing, Data and Analytics (HiPC): PC Member (2022, 2021)
 - IEEE Transactions on Parallel and Distributed Systems (TPDS): Committee Member for the Special Section on Parallel and Distributed Computing Techniques for AI, ML and DL (2021, 2020)
