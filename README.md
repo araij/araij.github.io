@@ -39,10 +39,11 @@ I received a Bachelor of Science and a Master of Information Science and Technol
 
 ## Professional Services
 
+- Information Processing Society of Japan (IPSJ) Transactions on Database (TOD): Editorial board member (2025-now) 
 - The International Conference on Database Systems for Advanced Applications (DASFAA): PC Member (2024, 2025, 2026)
 - The International Conference on Parallel Processing (ICPP): PC Member (2025)
-- Cross-Disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG): Program Vice-Chair (2024), PC Member (2023, 2019, 2018)
+- Cross-Disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG): Program Vice-Chair (2024), PC Member (2018, 2019, 2023)
 - The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC): Planning Committee Member (Technical Program) (2023)
-- The IEEE International Conference on High Performance Computing, Data and Analytics (HiPC): PC Member (2022, 2021)
-- IEEE Transactions on Parallel and Distributed Systems (TPDS): Committee Member for the Special Section on Parallel and Distributed Computing Techniques for AI, ML and DL (2021, 2020)
+- The IEEE International Conference on High Performance Computing, Data and Analytics (HiPC): PC Member (2021, 2022)
+- IEEE Transactions on Parallel and Distributed Systems (TPDS): Committee Member for the Special Section on Parallel and Distributed Computing Techniques for AI, ML and DL (2020, 2021)
 - The International Conference on High Performance Computing in the Asia-Pacific Region (HPC Asia): PC Member (2021)
