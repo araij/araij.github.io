@@ -33,6 +33,7 @@ I received a Bachelor of Science and a Master of Information Science and Technol
 
 ## Talks
 
+- **Accelerating Large-scale Graph Processing: The Impact of Algorithmic Innovations** (Plenary Talk). The 8th NUS-ISM-ZIB-IIR-MODAL Workshop - Next Generation Computing and Algorithms in the Digital Era, 2024.
 - **High-Performance Graph Search with Pruning**. The 19th Korea-Japan (Japan-Korea) Database Workshop (KJDB), 2024.
     - [Slides](https://github.com/araij/araij.github.io/blob/master/materials/2411_kjdb_slides.pdf)
 
