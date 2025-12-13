@@ -4,7 +4,7 @@ Senior Research Engineer at the Computer and Data Science Laboratories, NTT, Inc
 
 I received a Bachelor of Science and a Master of Information Science and Technology from the University of Tokyo in 2011 and 2013, respectively. After joining NTT in 2013, I received a Ph.D. in Information Science from Osaka University in 2019. My research interests include parallel distributed computing and graph algorithms. I am a member of the Association for Computing Machinery (ACM), the Database Society of Japan (DBSJ), and the Information Processing Society of Japan (IPSJ).
 
-- [Full Publications](https://github.com/araij/araij.github.io/blob/master/pubs.pdf) (in Japanese; updated on Dec. 13, 2025)
+- [Full Publications](https://github.com/araij/araij.github.io/blob/master/pubs.pdf) (updated on Dec. 14, 2025)
 - [dblp](https://dblp.org/pid/129/5665.html)
 - [GitHub](https://github.com/araij)
 - [LinkedIn](https://www.linkedin.com/in/araij/)
